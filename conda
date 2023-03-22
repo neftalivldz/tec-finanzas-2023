@@ -1,4 +1,4 @@
 conda info --envs
 conda init zsh
 conda activate mlp
-jupyter notebook
+jupyter notebook 
