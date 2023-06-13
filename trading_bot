@@ -1,0 +1,10 @@
+git clone https://github.com/pskrunner14/trading-bot.git
+
+conda info --envs
+conda create --name botri
+conda activate botri
+
+pip3 install Cython 
+brew install jupyter
+
+pip3 install -r requirements.txt
